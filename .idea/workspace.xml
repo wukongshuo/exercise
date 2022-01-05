@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b3db80e-acf8-4de0-8e73-edec3df19ee5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/devtools/maven/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\devtools\maven\apache-maven-3.6.2\conf\settingsforkcsutpc.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gLuldA0J6FwsRnTrCSmgTDzp1s" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fronte/portal" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="ts.external.directory.path" value="C:\devtool\idea\IntelliJ IDEA 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\xxwproject\src\test\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.xxw" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="base.util" />
+      <recent name="base.dao" />
+      <recent name="annotation" />
+      <recent name="base.query" />
+      <recent name="http" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\xxwproject\src\main\resources" />
+      <recent name="D:\project\xxwproject\src\main\java\base\query" />
+      <recent name="D:\project\xxwproject\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BlockJUnit4ClassRunnerExecutor">
+    <configuration name="BlockJUnit4ClassRunnerExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxw.util.base.util.junit.BlockJUnit4ClassRunnerExecutor" />
+      <module name="com.xxw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxw.util.base.util.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxw.util.base.util.StringTest" />
+      <module name="com.xxw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxw.util.base.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoreJUnit4SampleTest.testIgnore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.xxw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxw.util.base.util.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxw.util.base.util.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.xxw.util.base.util.junit.CoreJUnit4SampleTest" />
+      <option name="METHOD_NAME" value="testIgnore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitStudy.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.xxw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxw.util.base.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxw.util.base.util" />
+      <option name="MAIN_CLASS_NAME" value="com.xxw.util.base.util.JunitStudy" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqlUtilTest.getTableName (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.xxw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxw.util.base.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxw.util.base.util" />
+      <option name="MAIN_CLASS_NAME" value="com.xxw.util.base.util.SqlUtilTest" />
+      <option name="METHOD_NAME" value="getTableName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BlockJUnit4ClassRunnerExecutor" />
+        <item itemvalue="JUnit.CoreJUnit4SampleTest.testIgnore" />
+        <item itemvalue="JUnit.JunitStudy.test1" />
+        <item itemvalue="JUnit.SqlUtilTest.getTableName (1)" />
+        <item itemvalue="Application.StringTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_NON_PUBLIC,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b3db80e-acf8-4de0-8e73-edec3df19ee5" name="Default Changelist" comment="" />
+      <created>1597906345365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597906345365</updated>
+      <workItem from="1597906348619" duration="2773000" />
+      <workItem from="1598268931263" duration="1000" />
+      <workItem from="1598269024055" duration="31000" />
+      <workItem from="1598269170838" duration="3917000" />
+      <workItem from="1599052667810" duration="5000" />
+      <workItem from="1599052706238" duration="70000" />
+      <workItem from="1599052996975" duration="53000" />
+      <workItem from="1599053247118" duration="17000" />
+      <workItem from="1599053302268" duration="4150000" />
+      <workItem from="1599203486455" duration="23000" />
+      <workItem from="1599203588052" duration="1803000" />
+      <workItem from="1604911657376" duration="3109000" />
+      <workItem from="1608604627630" duration="29309000" />
+      <workItem from="1609905024518" duration="598000" />
+      <workItem from="1609912897141" duration="40000" />
+      <workItem from="1609912951102" duration="599000" />
+      <workItem from="1615260029726" duration="823000" />
+      <workItem from="1615453308644" duration="949000" />
+      <workItem from="1621588572670" duration="717000" />
+      <workItem from="1622465591792" duration="1876000" />
+      <workItem from="1624429614102" duration="7600000" />
+      <workItem from="1624606579676" duration="14000" />
+      <workItem from="1625022340792" duration="17450000" />
+      <workItem from="1625554394195" duration="4525000" />
+      <workItem from="1625819946460" duration="12778000" />
+      <workItem from="1626231835420" duration="6210000" />
+      <workItem from="1627004748015" duration="8759000" />
+      <workItem from="1627348533626" duration="594000" />
+      <workItem from="1631240709158" duration="674000" />
+      <workItem from="1632551168514" duration="2574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/xxw/test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xxw/java8/collectors/ListToMap.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xxw/java8/collectors/ListToMap.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xxw/java8/collectors/ListToMap.java</url>
+          <line>32</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xxw/java8/optional/NonValueGet.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xxw/base/util/SqlUtil.java</url>
+          <line>1015</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/xxw/util/base/util/SqlUtilTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xxw/base/util/SqlUtil.java</url>
+          <line>1028</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xxw/base/util/SqlUtil.java</url>
+          <line>1067</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xxw/base/util/JavaBeanUtil.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/xxw/util/base/util/SqlUtilTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/xxw/util/base/util/JunitStudy.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParameters.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/junit/framework/JUnit4TestAdapter.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/Suite.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runner/JUnitCore.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runner/JUnitCore.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runner/JUnitCore.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runner/JUnitCore.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runner/JUnitCore.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runner/JUnitCore.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runner/JUnitCore.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/internal/runners/JUnit4ClassRunner.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/internal/runners/JUnit4ClassRunner.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/internal/runners/ClassRoadie.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/internal/runners/JUnit38ClassRunner.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/xxw/util/base/util/junit/BlockJUnit4ClassRunnerExecutor.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/model/TestClass.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/xxw/util/base/util/junit/BlockJUnit4ClassRunnerExecutor.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/xxw/util/base/util/junit/BlockJUnit4ClassRunnerExecutor.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/model/TestClass.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/model/TestClass.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/model/TestClass.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/model/TestClass.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/model/TestClass.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>522</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/internal/runners/rules/RuleMemberValidator.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>182</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/internal/runners/rules/RuleMemberValidator.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>523</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/xxw/util/base/util/junit/BlockJUnit4ClassRunnerExecutor.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>429</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>436</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>441</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>444</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/xxw/util/base/util/junit/BlockJUnit4ClassRunnerExecutor.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/xxw/util/base/util/junit/BlockJUnit4ClassRunnerExecutor.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runner/notification/RunNotifier.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runner/notification/RunNotifier.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>409</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>212</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>363</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runners/ParentRunner.java</url>
+          <line>365</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/junit/textui/TestRunner.java</url>
+          <line>179</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/junit/textui/TestRunner.java</url>
+          <line>189</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/internal/runners/JUnit4ClassRunner.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

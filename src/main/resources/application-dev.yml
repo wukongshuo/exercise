@@ -1,0 +1,77 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /xxwproject
+spring:
+  application:
+    name: xxwproject
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    database-platform: postgresql
+    properties:
+      hibernate:
+        jpaDialect: org.springframework.orm.jpa.vendor.HibernateJpaDialect
+        dialect: org.hibernate.dialect.PostgreSQL95Dialect
+        #是否自动打印hql对应的sql语句
+        show-sql: false
+        #是否格式化sql语句
+        format-sql: false
+        #事务交由spring管理
+        current_session_context_class: org.springframework.orm.hibernate5.SpringSessionContext
+        cache:
+          use_second_level_cache: false
+          use_query_cache: false
+        temp:
+          use_jdbc_metadata_defaults: false
+    database: postgresql
+  datasource:
+    platform: postgres
+    #    这个是福田中心区的环境
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: 123456
+    driver-class-name: org.postgresql.Driver
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      maximum-pool-size: 25 #最大连接数，小于等于0会被重置为默认值10；大于零小于1会被重置为minimum-idle的值
+      connection-timeout: 30000  #连接超时时间:毫秒，小于250毫秒，否则被重置为默认值30秒
+      minimum-idle: 10  #最小空闲连接，默认值10，小于0或大于maximum-pool-size，都会重置为maximum-pool-size
+      idle-timeout: 500000  #空闲连接超时时间，默认值600000（10分钟），大于等于max-lifetime且max-lifetime>0，会被重置为0；不等于0且小于10秒，会被重置为10秒。
+      max-lifetime: 540000  #连接最大存活时间.不等于0且小于30秒，会被重置为默认值30分钟.设置应该比mysql设置的超时时间短
+      connection-test-query: SELECT 1    #连接测试查询
+      auto-commit: true
+
+#logging:
+#    level:
+#       com:
+#         sutpc: INFO
+#    org:
+#      apache:
+#        tomcat: DEBUG
+#        catalina: DEBUG
+#  file: business.log
+#  path: D:\ssolog
+
+ribbon:
+  ReadTimeout: 100000
+  ConnectTimeout: 100000
+
+rpc:
+  server:
+    incident:
+      ip: 10.10.14.15
+      port: 50051
+    evaluation:
+      ip: 10.10.2.76
+      port: 50055
+    optimize:
+      ip: 10.10.180.89
+      port: 50050
+    singleoptstatus:
+      ip: 10.10.201.5
+      port: 9888
+
+swagger:
+  url: /ssos/business/api/*.*
