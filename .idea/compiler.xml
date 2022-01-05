@@ -8,13 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="xxwproject" />
-        <module name="com.xxw" />
+        <module name="exercise" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="com.xxw" options="-parameters" />
+      <module name="exercise" options="-parameters" />
       <module name="xxwproject" options="-parameters" />
     </option>
   </component>

@@ -4,6 +4,7 @@ package com.xxw.java8.collectors;
 
 import com.xxw.java8.bean.Book;
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
@@ -32,6 +33,7 @@ public class ListToMap {
          */
         Map<Integer, Book> mapWithDuplicateKeyAndMergeFunction = books.stream().collect(Collectors.toMap(Book::getReleaseYear, Function.identity(), (key1, key2) -> key1));
         System.out.println(mapWithDuplicateKeyAndMergeFunction);
+
     }
 }
 

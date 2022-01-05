@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b3db80e-acf8-4de0-8e73-edec3df19ee5" name="Default Changelist" comment="" />
+    <list default="true" id="0b3db80e-acf8-4de0-8e73-edec3df19ee5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xxw/java8/collectors/ListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xxw/java8/collectors/ListToMap.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,9 +16,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -30,21 +39,24 @@
   </component>
   <component name="ProjectId" id="1gLuldA0J6FwsRnTrCSmgTDzp1s" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fronte/portal" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="ts.external.directory.path" value="C:\devtool\idea\IntelliJ IDEA 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\project\xxwproject\src\test\java" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.xxw" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\xxwproject\src\main\resources" />
+      <recent name="D:\project\xxwproject\src\main\java\base\query" />
+      <recent name="D:\project\xxwproject\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="base.util" />
@@ -53,10 +65,8 @@
       <recent name="base.query" />
       <recent name="http" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\project\xxwproject\src\main\resources" />
-      <recent name="D:\project\xxwproject\src\main\java\base\query" />
-      <recent name="D:\project\xxwproject\src\main\java" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\xxwproject\src\test\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,7 +84,7 @@
   <component name="RunManager" selected="Application.BlockJUnit4ClassRunnerExecutor">
     <configuration name="BlockJUnit4ClassRunnerExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xxw.util.base.util.junit.BlockJUnit4ClassRunnerExecutor" />
-      <module name="com.xxw" />
+      <module name="exercise" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xxw.util.base.util.junit.*" />
@@ -87,7 +97,7 @@
     </configuration>
     <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xxw.util.base.util.StringTest" />
-      <module name="com.xxw" />
+      <module name="exercise" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xxw.util.base.util.*" />
@@ -99,7 +109,7 @@
       </method>
     </configuration>
     <configuration name="CoreJUnit4SampleTest.testIgnore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.xxw" />
+      <module name="exercise" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xxw.util.base.util.junit.*" />
@@ -115,7 +125,7 @@
       </method>
     </configuration>
     <configuration name="JunitStudy.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.xxw" />
+      <module name="exercise" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xxw.util.base.util.*" />
@@ -131,7 +141,7 @@
       </method>
     </configuration>
     <configuration name="SqlUtilTest.getTableName (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.xxw" />
+      <module name="exercise" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xxw.util.base.util.*" />
@@ -200,6 +210,7 @@
       <workItem from="1627348533626" duration="594000" />
       <workItem from="1631240709158" duration="674000" />
       <workItem from="1632551168514" duration="2574000" />
+      <workItem from="1641366476224" duration="6118000" />
     </task>
     <servers />
   </component>
@@ -211,22 +222,33 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/xxw/java8/collectors/ListToMap.java</url>
-          <line>27</line>
+          <line>28</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/xxw/java8/collectors/ListToMap.java</url>
-          <line>26</line>
+          <line>27</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/xxw/java8/collectors/ListToMap.java</url>
-          <line>32</line>
+          <line>33</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
